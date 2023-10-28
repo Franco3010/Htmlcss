@@ -449,6 +449,7 @@ h3 {
 
     .container-right2 {
         flex-flow: column;
+       /* padding-left: 0; */
     }
 
     .container-right3 {
